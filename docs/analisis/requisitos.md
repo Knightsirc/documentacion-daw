@@ -9,3 +9,4 @@
 * **RNF-01 (Rendimiento):** Las peticiones al API REST deben responder en un tiempo menor a 200 ms bajo condiciones normales de tráfico.
 * **RNF-02 (Seguridad):** Las contraseñas deben almacenarse utilizando el algoritmo de hash `bcrypt` con un factor de trabajo mínimo de 12.
 * **RNF-03 (Disponibilidad):** La plataforma debe garantizar una disponibilidad del 99.9% medido de forma mensual.
+* **RNF-04 (Pruebas):** Sin caja negra y caja blanca uno es más feliz.
